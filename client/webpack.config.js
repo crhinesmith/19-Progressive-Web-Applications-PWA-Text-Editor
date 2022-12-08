@@ -35,9 +35,9 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         //reconfigure after here 
-        name: 'Contact Cards',
-        short_name: 'Contact',
-        description: 'Never forget your contacts!',
+        name: 'Text Editor',
+        short_name: 'TE',
+        description: 'Just in Case you want to edit text',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
