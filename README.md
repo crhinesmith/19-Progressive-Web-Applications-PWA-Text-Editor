@@ -18,10 +18,16 @@
 
   * [Questions](#questions)
 
-  ## Installation
-  
+ ## Installation
+  In the terminal of the server.js and type this command
+
+      npm install
+  This creates package.json file. 
 
   ## Usage
+  In order to start the server, run the command
+  
+      npm run start
   
   ## License
     This project is licensed under MIT
