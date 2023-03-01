@@ -1,8 +1,9 @@
 # 19-Progressive-Web-Applications-PWA-Text-Editor![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  This project was completed via using webpack and the service worker capability to create a webpage with offline capabilities.
-
+  This project was completed via using webpack and the service worker capability to create a webpage with offline capabilities. Technologies also featured include idb, 
+  which is a lightweight wrapper around the IndexedDB API.
+  Click [here](https://aqueous-shore-64056.herokuapp.com/) for JATE's live URL
   ## Table of Contents
 
   * [Installation](#installation)
